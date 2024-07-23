@@ -50,7 +50,7 @@ To run the notebooks locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pytorch-tutorial.git
+   git clone https://github.com/Mac-007/Pytorch-Tutorial.git
    cd pytorch-tutorial
    ```
 
@@ -58,9 +58,6 @@ To run the notebooks locally, follow these steps:
 
    Ensure you have Python and Jupyter Notebook installed. You can create a virtual environment and install the required packages using:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. **Launch Jupyter Notebook:**
 
@@ -77,11 +74,7 @@ To run the notebooks locally, follow these steps:
 - Python 3.x
 - PyTorch
 - Jupyter Notebook
-- Other dependencies listed in `requirements.txt`
 
-## Contributing
-
-If you have suggestions or improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
 ## License
 
