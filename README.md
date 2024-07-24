@@ -10,7 +10,7 @@ Welcome to the PyTorch Tutorial repository! This repository contains a collectio
 4. [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns-in-pytorchipynb)
 5. [Transfer Learning and Fine-Tuning](#transfer-learning-and-fine-tuning-in-pytorchipynb)
 6. [Using a Pre-Trained VGG Model for Image Classification with CIFAR-10](#using-a-pre-trained-vgg-model-for-image-classification-with-cifar-10ipynb)
-
+7. [Creating Custom Datasets and DataLoaders in PyTorch for Training] (#Creating-Custom-Datasets-and-DataLoaders-in-PyTorch-for-Trainingipynb)
 ## Notebooks
 
 ### Tensors.ipynb
@@ -42,6 +42,10 @@ Welcome to the PyTorch Tutorial repository! This repository contains a collectio
 
 - **Description:** Using a pre-trained VGG model to classify images from the CIFAR-10 dataset.
 - **Key Topics:** Pre-trained models, CIFAR-10 dataset, model evaluation, and performance metrics.
+
+### .Creating Custom Datasets and DataLoaders in PyTorch for Training.ipynb
+- **Description:** Creating Custom Datasets and DataLoaders in PyTorch for Training.ipynb
+- **Key Topics:** Custom datasets, custom DataLoaders
 
 ## Getting Started
 
