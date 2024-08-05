@@ -11,6 +11,7 @@ Welcome to the PyTorch Tutorial repository! This repository contains a collectio
 5. [Transfer Learning and Fine-Tuning](#transfer-learning-and-fine-tuning-in-pytorchipynb)
 6. [Using a Pre-Trained VGG Model for Image Classification with CIFAR-10](#using-a-pre-trained-vgg-model-for-image-classification-with-cifar-10ipynb)
 7. [Creating Custom Datasets and DataLoaders in PyTorch for Training](Creating-Custom-Datasets-and-DataLoaders-in-PyTorch-for-Training.ipynb)
+8. [PyTorch Implementation of a U-Net Model for CT Image Segmentation](#pytorch-implementation-of-a-u-net-model-for-ct-image-segmentationipynb)
 
 
 ## Notebooks
@@ -48,6 +49,11 @@ Welcome to the PyTorch Tutorial repository! This repository contains a collectio
 ### .Creating Custom Datasets and DataLoaders in PyTorch for Training.ipynb
 - **Description:** Creating Custom Datasets and DataLoaders in PyTorch for Training.ipynb
 - **Key Topics:** Custom datasets, custom DataLoaders
+
+### PyTorch Implementation of a U-Net Model for CT Image Segmentation.ipynb
+
+- **Description:** Implementation of the U-Net model for segmenting CT images, specifically tailored for medical image analysis.
+- **Key Topics:** U-Net architecture, image segmentation, custom dataset handling, and model evaluation.
 
 ## Getting Started
 
